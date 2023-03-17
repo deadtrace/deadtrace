@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @deadtrace
+- 👋 Hi, I’m @deadtrace, Frontend Developer 
+- 🔧 Stack at work: React, TypeScript, Webpack, Redux, Mobx, Emotion.
 - 📫 How to reach me: 
 
 https://t.me/deadtrace
