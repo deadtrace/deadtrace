@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @deadtrace
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and Next.js
 - 📫 How to reach me: 
 
 https://t.me/deadtrace
