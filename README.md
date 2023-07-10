@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deadtrace, Frontend Developer 
-- 🔧 Stack at work: React, TypeScript, Webpack, Redux, Mobx, Emotion.
+- 🔧 Stack at work: react, typescript, zustand, styled-components, webpack, feature-sliced design.
 - 📫 How to reach me: 
 
 https://t.me/deadtrace
