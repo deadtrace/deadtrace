@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deadtrace, Frontend Developer 
-- 🔧 Stack at work: react, typescript, zustand, styled-components, webpack, feature-sliced design.
+- 🔧 Stack at work: react, typescript, zustand, styled-components, rsbuild, feature-sliced design, module federation.
 - 📫 How to reach me: 
 
 https://t.me/deadtrace
